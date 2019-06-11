@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "gugu!"
+title:  "0611 Dictation"
 date:   2019-06-11 17:05:13 +0000
 categories: jekyll update
 ---
 
-##### G/Boarding School Syndrome
+# G/Boarding School Syndrome
 
 趋势//The number of children boarding has been **in long-term decline** in this country, but now strangely it's beginning to rise again.
 
@@ -17,7 +17,7 @@ categories: jekyll update
 
 后果//So we **end up with** an elite with people in positions of power who are emotionally damaged. That's **a very dangerous place to be**, because children who are taught to deny their own feelings also learn to deny other people's feelings.
 
-##### H/A Letter from Hogwarts(1/5)
+# H/A Letter from Hogwarts(1/5)
 
 twang 鼻音// to speak with a bit of a twang / Harry picked it up and stared at it, his heart twanging like a giant elastic band. 
 
@@ -27,7 +27,7 @@ twang 鼻音// to speak with a bit of a twang / Harry picked it up and stared a
 
 没错//Yet here it was, a letter, addressed so plainly there could be no mistake
 
-##### H/A Letter from Hogwarts(2/5)
+# H/A Letter from Hogwarts(2/5)
 
 笑//"What are you doing, checking for letter bombs?" He chuckled at his own joke.
 
