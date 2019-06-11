@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-03-02 17:05:13 +0000
+title:  "gugu!"
+date:   2019-06-11 17:05:13 +0000
 categories: jekyll update
 ---
+
 ##### G/Boarding School Syndrome
 
 趋势//The number of children boarding has been **in long-term decline** in this country, but now strangely it's beginning to rise again.
