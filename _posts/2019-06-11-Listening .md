@@ -1,12 +1,9 @@
 ---
 layout: post
-title: LOFFER文档
-date: 2019-06-02
-Author: 来自中世界
-categories: 
-tags: [sample, document]()
-comments: true
---- 
+title:  "Welcome to Jekyll!"
+date:   2017-03-02 17:05:13 +0000
+categories: jekyll update
+---
 ##### G/Boarding School Syndrome
 
 趋势//The number of children boarding has been **in long-term decline** in this country, but now strangely it's beginning to rise again.
